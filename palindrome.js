@@ -1,3 +1,4 @@
+
 let str = "Priyanka";
 let N = str.length;
 let a = "";
